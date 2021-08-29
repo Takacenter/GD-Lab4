@@ -55,6 +55,7 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\Test.cs" />
     <Compile Include="Assets\Scripts\ProgressEvaluator.cs" />
+    <Compile Include="Assets\PrintAndHide.cs" />
     <Compile Include="Assets\LoadAssets.cs" />
   </ItemGroup>
   <ItemGroup>
